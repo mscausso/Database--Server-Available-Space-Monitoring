@@ -1,4 +1,4 @@
-# Database--Server-Available-Space-Monitoring
+# Database Server Available Space Monitoring
 
 With this report, daily monitoring of the space in the company's database server and all internal databases was achieved. This report helped to visualize the space distribution across the databases and send an alert when the server was approaching 80% capacity. Based on this alert, preventive actions would be taken, such as deleting unused data or increasing the database capacity.
 
